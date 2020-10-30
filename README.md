@@ -23,11 +23,11 @@ The ride-sharing metrics we will be lookin at per city type will be:
 
 Below is a table showing the results of the metrics.
 
- | Total Rides | Total Drivers | **Total Fares** | **Average Fare per Ride** | **Average Fare per Drive**r 
---- | --- | ---|--- |--- |--- 
- **Rural**    | 125         | 78            | $4,327.93       | $34.62                    | $55.49                      
- **Suburban** | 625         | 490           | $19,356.33      | $30.97                    | $39.50                      
- **Urban**    | 1,625       | 2,405         | $39,854.38      | $24.53                    | $16.57                      
+|              | Total Rides | Total Drivers | **Total Fares** | **Average Fare per Ride** | **Average Fare per Drive**r |
+| ------------ | ----------- | ------------- | --------------- | ------------------------- | --------------------------- |
+| **Rural**    | 125         | 78            | $4,327.93       | $34.62                    | $55.49                      |
+| **Suburban** | 625         | 490           | $19,356.33      | $30.97                    | $39.50                      |
+| **Urban**    | 1,625       | 2,405         | $39,854.38      | $24.53                    | $16.57                      |
 
 ​																			Table 1: Pyber Summary 
 
